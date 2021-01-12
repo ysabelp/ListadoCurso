@@ -1,4 +1,4 @@
-Listado de Estudiantes
+dListado de Estudiantes
 6to. A Informatica
 
 Prof. Jose Luis Manon
@@ -21,7 +21,7 @@ Listado
 14.Edwin Morillo
 15. Vanessa Peralta
 16.Ysabel Pomares
-17.
+17.RIVALDO RAMOS N.
 18.Jorge Santana
 19.Eduardo Segura
 20. Montserrat Tejada
