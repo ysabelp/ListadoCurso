@@ -4,15 +4,16 @@ Listado de Estudiantes
 Prof. Jose Luis Manon
 
 Listado
+
 1. Diana
-2.
+2.Merylin
 3.Francisco
-4.
-5.
+4.Franklin 
+5. Albert Dipre 
 6.Angel Luis Duran Montaño a.k.a. La Bestia
 7.gregorio estevez
 8.Laura F
-9.
+9.Carlos Gonzalez
 10. Dilabel.
 11.
 12.
@@ -24,6 +25,5 @@ Listado
 18.Jorge Santana
 19.Eduardo Segura
 20. Montserrat Tejada
-21.
+21. Camila Tezanos
 22.
-
