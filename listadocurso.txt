@@ -1,4 +1,4 @@
-dListado de Estudiantes
+Listado de Estudiantes
 6to. A Informatica
 
 Prof. Jose Luis Manon
